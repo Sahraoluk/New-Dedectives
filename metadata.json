@@ -1,0 +1,6 @@
+{
+  "name": "New Detectives",
+  "description": "Sherlock Holmes temalı gerçek suç dosyaları inceleme, kanıt analizi, dedektif profili ve topluluk tartışma platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
